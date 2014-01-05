@@ -1,7 +1,7 @@
 Summary:	C runtime library for the AVR
 Name:		cross_avr_libc
 Version:	1.8.0
-Release:	2
+Release:	3
 License:	Modified BSD (see included LICENSE)
 Group:		Development/Tools
 Source0:	http://download.savannah.gnu.org/releases/avr-libc/avr-libc-%{version}.tar.bz2
